@@ -1,0 +1,10 @@
+th, td{ padding: 0.3em 0.6em; }
+td { text-align: right; }
+thead, tfoot th {
+    color: #ffffff;
+    background-color: #009933;
+}
+tbody {
+    color: #000000;
+    background-color: #ffcc00;
+}
